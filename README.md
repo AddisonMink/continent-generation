@@ -1,5 +1,5 @@
 # continent-generation
-This is my Perlin-Noise-based terrain generation algorithm. There are many like it, but this one is mine.
+This is my Perlin-Noise-based terrain generation algorithm. There are many like it, but this one is mine. You can see it in action [here!](https://addisonmink.github.io/continent-generation/continent.html).
 
 The algorithm goes something like this:
 1. Create an elevation grid:
